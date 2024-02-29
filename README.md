@@ -1,2 +1,2 @@
 # scheme
-[Link text](reyesidw://test.app)
+[Link text](https://test.app)
